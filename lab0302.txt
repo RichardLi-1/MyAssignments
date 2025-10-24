@@ -1,0 +1,21 @@
+1. Does the program keep running after the error occurs?
+a. division of an integer by the integer value of 0
+Yes
+
+b. division of a double by the double value of 0.0
+Yes
+
+c. square root of a negative number
+Yes
+
+
+
+2. What output appears as the result of the computation, if any?
+a. division of an integer by the integer value of 0
+0
+
+b. division of a double by the double value of 0.0
+inf
+
+c. square root of a negative number
+nan

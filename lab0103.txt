@@ -1,0 +1,11 @@
+a) Which register holds the return value?
+eax
+
+
+b) How many ALU operations (the adds) does calc perform before
+ret?
+2
+
+
+c) For inputs a and b, what value is returned?
+2a+b
