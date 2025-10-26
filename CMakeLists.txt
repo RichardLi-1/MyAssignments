@@ -18,4 +18,6 @@ add_executable(
         pay.cpp
         pi.cpp
         quadratic.cpp
+        triangle.cpp
+        bisection.cpp
 )
